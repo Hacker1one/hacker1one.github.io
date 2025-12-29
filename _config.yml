@@ -23,7 +23,7 @@ repository               : "Hacker1one/hacker1one.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
+  avatar           : "profile.png"
   name             : "Abdelrahman Taha"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
