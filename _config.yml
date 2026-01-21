@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Abdelrahman Taha / Website"
+title                    : "Abdelrahman Taha"
 title_separator          : "-"
 name                     : &name "Abdelrahman Taha"
 description              : &description "Undergraduate Researcher in Computational Neuroscience"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,12 +24,12 @@ repository               : "Hacker1one/hacker1one.github.io"
 author:
   # Biographic information
   avatar           : "profile1.jpeg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Abdelrahman Taha"
+  pronouns         : "He/His" 
   bio              : "Short biography for the left-hand sidebar"
   location         : "Giza, Egypt"
   employer         : "Zewail City"
-  uri              : # URL
+  uri              : "https://www.zewailcity.edu.eg"
   email            : "s-abdelrahman.taha@zewailcity.edu.eg" 
 
   # Academic websites
