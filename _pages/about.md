@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About - Abdelrahman Taha"
 author_profile: true
 redirect_from: 
   - /about/
