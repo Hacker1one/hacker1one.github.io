@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "profile1.jpeg"
   name             : "Abdelrahman Taha"
-  pronouns         : "He/His" 
+  pronouns         : 
   bio              : "Passionate learner of computational neuroscience"
   location         : "Giza, Egypt"
   employer         : "Zewail City"
-  uri              : "https://www.zewailcity.edu.eg"
+  uri              : 
   email            : "s-abdelrahman.taha@zewailcity.edu.eg" 
 
   # Academic websites
