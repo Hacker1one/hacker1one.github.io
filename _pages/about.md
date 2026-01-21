@@ -18,7 +18,7 @@ My academic journey is a bit of a mix—I’ve built a strong foundation in engi
 I am planning to apply for **PhD programs for the Fall 2027 intake**, where I hope to continue exploring computational connectomics and the mathematical modeling of the brain.
 
 ### Beyond the Lab
-Outside of research and coursework, I have a recurring obsession with **geography**—I’m constantly trying to learn more about the flags and history of different countries. I also enjoy a good game of **chess**, coffee and exploring the beauty of the nature.
+Outside of research and coursework, I have a recurring obsession with geography—I’m constantly trying to learn more about the flags and history of different countries. I also enjoy a good game of chess, coffee and exploring the beauty of the nature.
 
 Feel free to reach out if you want to chat about brain networks, math, or just to say hi—I’m always happy to connect!
 
