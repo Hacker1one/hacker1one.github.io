@@ -22,5 +22,3 @@ Outside of research and coursework, I have a recurring obsession with geography�
 
 Feel free to reach out if you want to chat about brain networks, math, or just to say hi—I’m always happy to connect!
 
----
-*You can find my contact info and social links in the sidebar.*
