@@ -1,7 +1,7 @@
 ---
 title: 'Introduction to Computational Neuroscience'
 date: 2026-01-28
-permalink: /posts/2026/01/Introduction_to_Computational_Neuroscience/
+permalink: /posts/2026/01/Introduction-to-Computational-Neuroscience/
 tags:
   - cool posts
   - category1
