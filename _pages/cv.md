@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## CV (PDF)
-
-[Download my CV]( /files/CV.pdf )
-
 <iframe
   src="/files/CV.pdf"
   width="100%"
