@@ -16,3 +16,7 @@ This project solves the 2D incompressible Navier–Stokes equations for the **li
 
 ## Code
 - The code is available on <a href="https://github.com/Hacker1one/navier-stokes-lid-driven-cavity-fractional-step">GitHub</a>
+
+
+## Report
+<iframe src="/files/PDE_project.pdf" width="100%" height="500px" style="border:none;"> </iframe>
