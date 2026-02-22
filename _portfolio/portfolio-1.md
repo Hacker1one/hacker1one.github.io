@@ -14,5 +14,5 @@ This project solves the 2D incompressible Navier–Stokes equations for the **li
 - Tests at **Re = 400, 1000, 3200**  
 - Validation vs. Ghia et al.
 
-## Report
+## Code
 - The code is available on <a href="https://github.com/Hacker1one/navier-stokes-lid-driven-cavity-fractional-step">GitHub</a>
