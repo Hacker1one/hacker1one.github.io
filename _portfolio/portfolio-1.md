@@ -19,4 +19,4 @@ This project solves the 2D incompressible Navier–Stokes equations for the **li
 
 
 ## Report
-<iframe src="/files/PDE_project.pdf" width="100%" height="500px" style="border:none;"> </iframe>
+<iframe src="/files/PDE_project.pdf" width="100%" height="900px" style="border:none;"> </iframe>
