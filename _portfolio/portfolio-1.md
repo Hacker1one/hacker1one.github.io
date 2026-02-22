@@ -1,12 +1,12 @@
 ---
 title: "Numerical Solution of the 2D Incompressible Navier–Stokes Equations"
-excerpt: "Lid-driven cavity flow solver using a fractional-step (projection) method on a MAC staggered grid (Re = 400, 1000, 3200).<br/><a href='/files/PDE_project.pdf'>Read the report (PDF)</a>"
+excerpt: "Lid-driven cavity flow solver using a fractional-step method on a MAC staggered grid (Re = 400, 1000, 3200).<br/><a href='/files/PDE_project.pdf'>Read the report (PDF)</a>"
 collection: portfolio
 permalink: /projects/navier-stokes-2d-cavity/
 ---
 
 ## Overview
-This project solves the 2D incompressible Navier–Stokes equations for the **lid-driven cavity** benchmark using a **fractional step / projection method** on a **staggered (MAC) grid**. Pressure is obtained from a Poisson equation (solved efficiently via DCT). The solver is validated against **Ghia et al. (1982)** centerline benchmarks.
+This project solves the 2D incompressible Navier–Stokes equations for the **lid-driven cavity** benchmark using a **fractional step method** on a **staggered (MAC) grid**. Pressure is obtained from a Poisson equation (solved efficiently via DCT). The solver is validated against **Ghia et al. (1982)** centerline benchmarks.
 
 ## Highlights
 - Staggered (MAC) grid for stable pressure–velocity coupling  
