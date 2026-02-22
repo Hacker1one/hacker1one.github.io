@@ -1,7 +1,18 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Numerical Solution of the 2D Incompressible Navier–Stokes Equations"
+excerpt: "Lid-driven cavity flow solver using a fractional-step (projection) method on a MAC staggered grid (Re = 400, 1000, 3200).<br/><a href='/files/PDE_project.pdf'>Read the report (PDF)</a>"
 collection: portfolio
+permalink: /projects/navier-stokes-2d-cavity/
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Overview
+This project solves the 2D incompressible Navier–Stokes equations for the **lid-driven cavity** benchmark using a **fractional step / projection method** on a **staggered (MAC) grid**. Pressure is obtained from a Poisson equation (solved efficiently via DCT). The solver is validated against **Ghia et al. (1982)** centerline benchmarks.
+
+## Highlights
+- Staggered (MAC) grid for stable pressure–velocity coupling  
+- Projection method: predictor → pressure Poisson → velocity correction  
+- Tests at **Re = 400, 1000, 3200**  
+- Validation vs. Ghia et al.
+
+## Report
+- The code is available on <a href="https://github.com/Hacker1one/navier-stokes-lid-driven-cavity-fractional-step">GitHub</a>
