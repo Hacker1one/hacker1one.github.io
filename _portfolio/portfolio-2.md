@@ -48,4 +48,6 @@ A Kaiser-window FIR filter achieved:
 - The code is available on <a href="https://github.com/Hacker1one/Audio-Denoising-and-Spectral-Analysis">GitHub</a>
 
 ## Report
+
 <iframe src="/files/DSP_Project.pdf" width="100%" height="900px" style="border:none;"></iframe>
+
